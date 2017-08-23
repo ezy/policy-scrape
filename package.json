@@ -1,0 +1,20 @@
+{
+  "name": "policy-scraper",
+  "version": "1.0.0",
+  "description": "A node based tool to scrape NZ policy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "new",
+    "zealand",
+    "policy",
+    "government"
+  ],
+  "author": "Ezra Keddell",
+  "license": "ISC",
+  "dependencies": {
+    "scrape-it": "^3.3.2"
+  }
+}
